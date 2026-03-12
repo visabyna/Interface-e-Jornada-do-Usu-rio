@@ -1,101 +1,92 @@
-🎓 Portal do Aluno — UI/UX Design
+# 🎓 Portal do Aluno — UI/UX Design
 
-Projeto de interface para um Portal do Aluno, desenvolvido no Figma com foco em usabilidade, organização de informações acadêmicas e experiência intuitiva para estudantes.
+Projeto de interface para um **Portal do Aluno**, desenvolvido no Figma com foco em **usabilidade, organização de informações acadêmicas e experiência intuitiva para estudantes**.
 
 O objetivo do projeto é criar uma interface moderna e funcional onde alunos possam acessar rapidamente suas informações acadêmicas, conteúdos e serviços institucionais.
 
-📌 Acesse o protótipo
+---
+
+## 📌 Acesse o protótipo
 
 Você pode visualizar o design completo no Figma através do link abaixo:
 
 🔗 https://www.figma.com/design/IRQwYd95P9h7E3sKtSDpNh/Portal-do-aluno?node-id=0-1&t=IAg73eVHuRpstFGh-1
 
-🧩 Funcionalidades do Portal
+---
+
+## 🧩 Funcionalidades do Portal
 
 O projeto inclui telas e componentes pensados para o dia a dia do estudante:
 
-📊 Dashboard do aluno
+### 📊 Dashboard do aluno
+- Visão geral das atividades  
+- Avisos importantes  
+- Status acadêmico  
 
-visão geral das atividades
+### 📚 Disciplinas
+- Acesso aos materiais de aula  
+- Conteúdos e atividades  
 
-avisos importantes
+### 📝 Notas e avaliações
+- Acompanhamento de desempenho  
+- Histórico acadêmico  
 
-status acadêmico
+### 📅 Agenda acadêmica
+- Prazos de atividades  
+- Eventos acadêmicos  
+- Calendário de aulas  
 
-📚 Acesso a disciplinas
+### 👤 Perfil do estudante
+- Dados pessoais  
+- Informações institucionais  
 
-materiais de aula
+---
 
-atividades e conteúdos
-
-📝 Notas e avaliações
-
-acompanhamento de desempenho
-
-histórico acadêmico
-
-📅 Agenda acadêmica
-
-prazos
-
-eventos
-
-calendário de atividades
-
-👤 Perfil do estudante
-
-dados pessoais
-
-informações institucionais
-
-🎨 Design e Experiência
+## 🎨 Design e Experiência
 
 O design foi pensado com foco em:
 
-Interface limpa e moderna
+- Interface limpa e moderna
+- Navegação simples e intuitiva
+- Hierarquia clara de informações
+- Componentes reutilizáveis
 
-Navegação simples
+### Princípios aplicados
 
-Hierarquia clara de informações
+- UX centrada no usuário  
+- Layout responsivo  
+- Consistência visual  
+- Organização modular dos componentes  
 
-Experiência intuitiva para estudantes
+---
 
-Princípios utilizados:
+## 🛠️ Ferramentas utilizadas
 
-UX centrada no usuário
+- Figma
+- Design System básico
+- Componentização de UI
 
-layout responsivo
+---
 
-consistência visual
-
-componentes reutilizáveis
-
-🛠️ Ferramentas utilizadas
-
-Figma
-
-Design System básico
-
-Componentização de UI
-
-📂 Estrutura do projeto
+## 📂 Estrutura do projeto
 
 O arquivo contém:
 
-Wireframes
+- Wireframes
+- Layout final das telas
+- Componentes reutilizáveis
+- Fluxos de navegação do usuário
 
-Layout final de telas
+---
 
-Componentes reutilizáveis
-
-Fluxos de navegação do usuário
-
-🚀 Objetivo do projeto
+## 🚀 Objetivo do projeto
 
 Este projeto pode ser utilizado como:
 
-estudo de UX/UI design
+- Estudo de **UX/UI Design**
+- Protótipo para **sistemas educacionais**
+- Base para desenvolvimento de **plataformas acadêmicas**
 
-protótipo para sistemas educacionais
+---
 
-base para desenvolvimento de plataformas acadêmicas
+## 👨‍💻 Vitória Sabyna, Felipe Siller
